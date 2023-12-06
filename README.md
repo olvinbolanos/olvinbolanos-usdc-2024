@@ -4,7 +4,8 @@
 
 ## Testing code
 
-![Homepage](wireframe/usdc-console-test.png)## Submission
+![Screenshot](/Users/olvinbolanos/Desktop/usdc-console-tetst.png)
+
 
 Directions for submission are in the prompt. As a reminder, you should commit your code to a repository called
 
