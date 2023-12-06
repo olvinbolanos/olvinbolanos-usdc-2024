@@ -4,8 +4,7 @@
 
 ## Testing code
 
-![Testing Code In Console](//Users/olvinbolanos/Desktop?raw=true "Console")
-
+![Alt text](//Users/olvinbolanos/Desktop/usdc-console-test.jpg "Optional title")
 ## Submission
 
 Directions for submission are in the prompt. As a reminder, you should commit your code to a repository called
