@@ -4,8 +4,7 @@
 
 ## Testing code
 
-![Alt text](//Users/olvinbolanos/Desktop/usdc-console-test "Optional title")
-## Submission
+![Homepage](wireframe/usdc-console-test.png)## Submission
 
 Directions for submission are in the prompt. As a reminder, you should commit your code to a repository called
 
