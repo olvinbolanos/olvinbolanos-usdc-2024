@@ -4,7 +4,9 @@
 
 ## Testing code
 
-![Screenshot](/Users/olvinbolanos/Desktop/usdc-console-tetst.png)
+<div align="center">
+    <img src="//Users/olvinbolanos/Desktop/usdc-console-test.png" width="400px"</img> 
+</div>
 
 
 Directions for submission are in the prompt. As a reminder, you should commit your code to a repository called
