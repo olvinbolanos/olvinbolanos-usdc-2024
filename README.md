@@ -5,7 +5,7 @@
 ## Testing code
 
 <div align="center">
-    <img src="//Users/olvinbolanos/Desktop/usdc-console-test.png" width="400px"</img> 
+    <img src="/Users/olvinbolanos/Desktop/usdc-console-test.png" width="400px"</img> 
 </div>
 
 
