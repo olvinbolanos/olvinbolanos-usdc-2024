@@ -4,9 +4,11 @@
 
 ## Testing code
 
+
 <div align="center">
-    <img src="/Users/olvinbolanos/Desktop/usdc-console-test.png" width="400px"</img> 
+  <img width="600" alt="usdc-console-test" src="https://github.com/olvinbolanos/olvinbolanos-usdc-2024/assets/47754309/7e33e9f6-c84c-425c-8348-20c4d428f7ad">
 </div>
+
 
 
 Directions for submission are in the prompt. As a reminder, you should commit your code to a repository called
